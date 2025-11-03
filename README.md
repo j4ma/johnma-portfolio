@@ -23,5 +23,5 @@ I’m a recent Computer Science graduate from NYU and an aspiring cybersecurity 
 **Focus Areas:** Network Security, Threat Detection, Security Automation
 
 ## Contact
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/j4ma/)
 - **Email:** jkma2000@gmail.com
