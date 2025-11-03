@@ -1,0 +1,20 @@
+title: "John Ma — Cybersecurity Portfolio"
+description: "Hands-on security projects, reports, and contact info"
+theme: jekyll-theme-cayman
+show_downloads: false
+
+url: "https://j4ma.github.io"
+baseurl: "/johnma-portfolio"
+
+author:
+  name: "John Ma"
+  email: "jkma2000@gmail.com"
+  linkedin: "https://www.linkedin.com/in/yourprofile"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+kramdown:
+  input: GFM
