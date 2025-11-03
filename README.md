@@ -11,7 +11,7 @@ I’m a recent Computer Science graduate from NYU and an aspiring cybersecurity 
 
 - **Smart Feeder Project**
   - Containerized ML system for object detection & security hardening
-  - [View Project →](https://github.com/yourusername/smart-feeder)
+  - [View Project →](https://github.com/j4ma/smartdogfeeder)
  
 ## Volunteer Work
 - **IN2 Church**
